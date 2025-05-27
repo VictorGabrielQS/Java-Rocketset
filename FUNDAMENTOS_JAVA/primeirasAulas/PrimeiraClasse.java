@@ -1,3 +1,4 @@
+package primeirasAulas;
 
 /* 
  * PrimeiraClasse  = Nome da minha Classe 
